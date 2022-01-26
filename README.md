@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/hq2hehy45bv6wva5?svg=true)](https://ci.appveyor.com/project/Sergl82/ajs-destructuring)
